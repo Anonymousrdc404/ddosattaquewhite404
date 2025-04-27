@@ -100,7 +100,23 @@ Pendant l'attaque, vous verrez :
 - Version actuelle : **1.0**
 - Dernière mise à jour : **2025-04**
 
+---# Remerciements - DDOS ATTACK TOOL - WH404
+
+Ce projet a été réalisé grâce à la collaboration de plusieurs esprits brillants de la communauté hacking :
+
+- **WHITE404** - Leader du projet, développeur principal, Anonymous Hacker
+- **MRISSE HK** - Expert en cyber-attaque, Ghost Hacker
+- **GHOST HACKER** - Stratège réseau
+- **GANSTER HACKER** - Spécialiste DDoS
+- **SUNRISE** - Architecte sécurité et force brute
+
 ---
+
+## ✊ Citation
+> "Nous sommes Anonymous. Nous sommes Légion. Nous ne pardonnons pas. Nous n'oublions pas. Attendez-vous à nous."
+
+Merci à toute l'équipe pour leur engagement, leur savoir-faire, et leur esprit de liberté 🔥
+
 
 # 🚀 Ready to stress test the network? 💥
 # DDOS ATTACK TOOL - WH404
