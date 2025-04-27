@@ -28,24 +28,46 @@
 
 ---
 
-## 🛠️ Installation
+## 🔢 Installation rapide
 
-1. Assurez-vous d'avoir **Python 3.x** installé.
-2. Installez les dépendances si nécessaire (socket, threading sont standards).
+Voici les étapes à suivre pour installer et lancer l'outil :
+
+```bash
+# Cloner le repository GitHub
+$ git clone https://github.com/Anonymousrdc404/ddosattaquewhite404
+
+# Accéder au dossier cloné
+$ cd ddosattaquewhite404
+
+# Lister les fichiers pour vérifier
+$ ls
+
+# Rendre le script exécutable
+$ chmod +x ddosultra.py
+
+# Lancer l'attaque
+$ python ddosultra.py
+```
 
 ---
 
-## 🔢 Utilisation rapide
+## 🛠️ Prérequis
+
+**Sur Termux ou Kali Linux**, installez :
 
 ```bash
-python dos3.py
-```
+# Mettre à jour
+apt update && apt upgrade -y
 
-Le script vous demandera automatiquement :
-- IP cible
-- Port cible
-- Nombre de threads 
-- Mode (tcp ou udp)
+# Installer Python et pip
+apt install python python3-pip -y
+
+# Installer Git
+apt install git -y
+
+# Installer bibliothèques Python si besoin
+pip install pyfiglet colorama
+```
 
 ---
 
@@ -73,14 +95,6 @@ Pendant l'attaque, vous verrez :
 
 ---
 
-## 📉 Contribution
-
-- Forkez ce repo 🔄
-- Proposez vos améliorations 🔧
-- Respectez toujours l'esprit éthique 🔐
-
----
-
 ## 📊 Statistiques du projet
 
 - Version actuelle : **1.0**
@@ -88,13 +102,5 @@ Pendant l'attaque, vous verrez :
 
 ---
 
-## 📱 Contact
-
-- Telegram : **@white404h4ck**
-- ProtonMail : whitetech404@gmail.com
-
-
----
-
-# 🚀 Ready to test your limits? 💥
+# 🚀 Ready to stress test the network? 💥
 # DDOS ATTACK TOOL - WH404
